@@ -1,6 +1,6 @@
 # budg_eat
 Voici le projet Python Ensae 2021 réalisés par Maxime Urban et Théo Vanneufville. 
-Nous avons souhaités réaliser une interface permettant à l'utilisateur d'obtenir les données macro-nutritionnelles d'un aliment. 
+Nous avons souhaité réaliser une interface permettant à l'utilisateur d'obtenir les données macro-nutritionnelles d'un aliment. 
 
 Notre démarche s'est faite en quatre temps : 
 
@@ -19,3 +19,4 @@ Notre démarche s'est faite en quatre temps :
 4) Réalisation d'une **interface graphique** rendant cette fonction accessible pour l'utilisateur
 - Outil : PySide2
 
+Notre code en intégralité est dans le notebook 'Notebook Final'. 
