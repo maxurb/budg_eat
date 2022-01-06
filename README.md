@@ -6,7 +6,7 @@ Notre démarche s'est faite en quatre temps :
 
 1) Création de deux databases grâce au scrapping : 
 - **Database Yazio **: une database contenant plus de 1000 aliments 
--** Database Conversion** : une database contenant des aliments et leur poids, utile pour éviter à l'utilisateur de devoir trouver le poids de ses aliments lui-même (par exemple le poids d'une tomate ou d'un oeuf). 
+- **Database Conversion ** : une database contenant des aliments et leur poids, utile pour éviter à l'utilisateur de devoir trouver le poids de ses aliments lui-même (par exemple le poids d'une tomate ou d'un oeuf). 
 - Outils : BeautifulSoup, Pandas
 
 2) Utilisation de **NLP** afin de rendre nos deux databases exploitables par l'utilisateur 
